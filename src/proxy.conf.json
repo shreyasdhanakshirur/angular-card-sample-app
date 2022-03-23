@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+  "target": "https://lx.festo.com/SearchService/",
+  "secure": false,
+  "logLevel":"debug"
+  }
+  }
